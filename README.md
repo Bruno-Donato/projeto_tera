@@ -1,4 +1,7 @@
 # Detecção de discuros de ódio em redes sociais - Trabalho de conclusão do curso de Data Science & Machine Learning (TERA)
+<div align="center">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Gastos Saúde" width="250" />
+</div>
 
 # Visão Geral
 Projeto de conclusão do curso de pós-graduação em ciência de dados & machine learning da escola Tera (ensino superior) com objetivo de coletar dados da rede social Twitter 
