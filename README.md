@@ -33,6 +33,7 @@ A seguiu as seguintes etapas:<br>
 4.Seleção do modelo pré-treinado Transformers (HuggingFace)<br>
 5.Métricas do modelo<br>
 6.Classificação manual e ajuste fino do modelo<br>
+7.Análise de contexto dos tweets<br>
 
 # Resultados
 - Há uma dificuldade em definir e identificação objetiva de discursos de ódio pelos avaliadores
