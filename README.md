@@ -23,7 +23,6 @@ Através desse processo foi proposto investigação de redes sociais de personal
 <br>
 1.É possível elaborar um modelo de machine learning para detectar de maneira confiável discursos de ódio?<br>
 2.O discurso de ódio ocorre em taxas diferentes dependendo de genero, etnia, orientação sexual, orientação política?<br>
-<br>
 
 # Processo
 A seguiu as seguintes etapas:<br>
@@ -43,5 +42,4 @@ A seguiu as seguintes etapas:<br>
 - Formas mais veladas de discursos, como sarcasmos, ironias e piadas são especialmente difíceis de serem detectados (lacuna semântica)
 
 # Conclusão
-Com as ferramentas propostas e utilizadas foi possível elaborar uma maneira de detectar discursos de ódio e analisar o contexto dos discursos analisados. Porém mais esforços 
-precisam ser desprendidos para aprimorar todo o processo.
+Com as ferramentas propostas e utilizadas foi possível elaborar uma maneira de detectar discursos de ódio e analisar o contexto dos discursos analisados. Porém mais esforços precisam ser desprendidos para aprimorar todo o processo.
