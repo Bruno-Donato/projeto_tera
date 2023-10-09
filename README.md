@@ -30,7 +30,7 @@ A seguiu as seguintes etapas:<br>
 1.Extração dos dados do Twiter e Portal de Dados abertos TSE<br>
 2.Análise descritiva<br>
 3.Pré-processamento dos dados<br>
-4.Seleção do modelo pré-treinado<br>
+4.Seleção do modelo pré-treinado Transformers (HuggingFace)<br>
 5.Métricas do modelo<br>
 6.Classificação manual e ajuste fino do modelo<br>
 
