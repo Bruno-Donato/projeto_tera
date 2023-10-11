@@ -28,14 +28,28 @@ Através desse processo foi proposto investigação de redes sociais de personal
 2.O discurso de ódio ocorre em taxas diferentes dependendo de genero, etnia, orientação sexual, orientação política?<br>
 
 # Processo
-A seguiu as seguintes etapas:<br>
-1.Extração dos dados do Twiter e Portal de Dados abertos TSE<br>
-2.Análise descritiva<br>
-3.Pré-processamento dos dados<br>
-4.Seleção do modelo pré-treinado Transformers (HuggingFace)<br>
-5.Métricas do modelo<br>
-6.Classificação manual e ajuste fino do modelo<br>
-7.Análise de contexto dos tweets<br>
+O projeto seguiu as seguintes etapas:<br>
+__1.Extração dos dados:__<br>
+  - Extração dos dados do Twiter e Portal de Dados abertos TSE (não incluida devido mudança de política da plataforma twitter)<br>
+  <br>
+  
+[__2.Modelos Transformers (HuggingFace):__<br>](https://github.com/Bruno-Donato/projeto_tera/blob/main/teste_huggingface.ipynb)
+  - Selecionando modelos<br>
+  - Métricas do modelo<br>
+  - Classificaçaõ manual<br>
+  - Ajuste fino<br>
+  - Métricas pós ajuste<br>
+  <br>
+  
+[__3.Análise de contexto:__<br>](https://github.com/Bruno-Donato/projeto_tera/blob/main/analise_contexto.ipynb)
+  - Pré-processamento dos dados<br>
+  - Análise descritiva<br>
+  - Extraindo e visualizando contexto com Word2Vec<br>
+  - Bag of words e N-grams<br>
+  <br>
+
+[__BONUS__<br>](https://github.com/Bruno-Donato/projeto_tera/blob/main/curso_hugging_face.ipynb)
+  - Curso huggingface sobre transformers
 
 # Resultados
 - Há uma dificuldade em definir e identificação objetiva de discursos de ódio pelos avaliadores
