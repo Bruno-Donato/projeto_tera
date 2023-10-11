@@ -60,3 +60,5 @@ __1.Extração dos dados:__<br>
 
 # Conclusão
 Com as ferramentas propostas e utilizadas foi possível elaborar uma maneira de detectar discursos de ódio e analisar o contexto dos discursos analisados. Porém mais esforços precisam ser desprendidos para aprimorar todo o processo.
+
+A apresentação do trabalho pode ser encontrada [aqui](https://github.com/Bruno-Donato/projeto_tera/blob/main/data/TERA%20-%20Apresenta%C3%A7%C3%A3o.pdf).
