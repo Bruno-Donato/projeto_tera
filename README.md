@@ -1,4 +1,4 @@
-# Detecção de discuros de ódio em redes sociais - Trabalho de conclusão do curso de Data Science & Machine Learning (TERA)
+# Detecção de discursos de ódio em redes sociais - Trabalho de conclusão do curso de Data Science & Machine Learning (TERA)
 <div align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Gastos Saúde" width="200" />
 </div>
